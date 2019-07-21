@@ -25,7 +25,7 @@ namespace TABGameSaver
         {
             timer.Elapsed += TimerElapsed;
             timer.AutoReset = true;
-            Console.WriteLine("They Are Billions Game Saver\nVersion: 1.1.0\nAuthor: Skeletonek\nCopyright 2019\n\n");
+            Console.WriteLine("They Are Billions Game Saver\nVersion: 1.1.1\nAuthor: Skeletonek\nCopyright 2019\n\n");
             Console.WriteLine("Proszę umieścić plik w katalogu z save'ami do gry They Are Billions\n(Dokumenty\\My Games\\They Are Billions\\Saves)\n");
             Console.WriteLine("Aplikacja wykrywa tylko zapis z domyślną nazwą trybu survival.\nZmiana nazwy zapisu będzie skutkować nie działaniem aplikacji!\n");
             Console.WriteLine("Czy aplikacja znajduje się w katalogu z zapisami do gry They Are Billions? (Y/N): ");
