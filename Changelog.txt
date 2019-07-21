@@ -1,0 +1,10 @@
+﻿They Are Billions Game Saver
+
+Version: 1.0.0
+- Wypuszczenie aplikacji
+
+Version: 1.1.0
+- Dodano sygnałów dzwiękowych przy wykonywaniu operacji
+- Aplikacja automatycznie podmienia pliki "Survival_backup" na zwykłe pliki z zapisem "Survival"
+- Kliknięcie dowolnego przycisku nie zamyka aplikacji
+- Kliknięcie Esc powoduje zamknięcie aplikacji
