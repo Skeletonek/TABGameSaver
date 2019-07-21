@@ -8,3 +8,6 @@ Version: 1.1.0
 - Aplikacja automatycznie podmienia pliki "Survival_backup" na zwykłe pliki z zapisem "Survival"
 - Kliknięcie dowolnego przycisku nie zamyka aplikacji
 - Kliknięcie Esc powoduje zamknięcie aplikacji
+
+Version: 1.1.1
+- Poprawa krytycznego błędu uszkadzającego pliki z zapisami (Przepraszam!)
