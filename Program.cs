@@ -29,13 +29,9 @@ namespace TABGameSaver
         static string location = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
         static Timer timer = new Timer(5000);
         static string File1Location = Directory.GetCurrentDirectory() + @"\Survival.zxcheck";
-        static string File1GBLocation = Directory.GetCurrentDirectory() + @"\Survival_backup.zxcheck";
         static string File1BackupLocation = Directory.GetCurrentDirectory() + @"\TABGameSaverFiles\Survival.zxcheck";
-        static string File1GBBackupLocation = Directory.GetCurrentDirectory() + @"\TABGameSaverFiles\Survival_backup.zxcheck";
         static string File2Location = Directory.GetCurrentDirectory() + @"\Survival.zxsav";
-        static string File2GBLocation = Directory.GetCurrentDirectory() + @"\Survival_backup.zxsav";
         static string File2BackupLocation = Directory.GetCurrentDirectory() + @"\TABGameSaverFiles\Survival.zxsav";
-        static string File2GBBackupLocation = Directory.GetCurrentDirectory() + @"\TABGameSaverFiles\Survival_backup.zxsav";
         static string DirectoryLocation = Directory.GetCurrentDirectory() + @"\TABGameSaverFiles";
 
         static Languages lang = new Languages();

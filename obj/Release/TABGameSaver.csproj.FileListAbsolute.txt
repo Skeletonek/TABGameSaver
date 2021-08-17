@@ -1,0 +1,10 @@
+C:\Users\skele\Documents\GitHub\TABGameSaver\bin\Release\TABGameSaver.exe.manifest
+C:\Users\skele\Documents\GitHub\TABGameSaver\bin\Release\TABGameSaver.application
+C:\Users\skele\Documents\GitHub\TABGameSaver\bin\Release\TABGameSaver.exe
+C:\Users\skele\Documents\GitHub\TABGameSaver\bin\Release\TABGameSaver.pdb
+C:\Users\skele\Documents\GitHub\TABGameSaver\obj\Release\TABGameSaver.csproj.AssemblyReference.cache
+C:\Users\skele\Documents\GitHub\TABGameSaver\obj\Release\TABGameSaver.csproj.CoreCompileInputs.cache
+C:\Users\skele\Documents\GitHub\TABGameSaver\obj\Release\TABGameSaver.exe.manifest
+C:\Users\skele\Documents\GitHub\TABGameSaver\obj\Release\TABGameSaver.application
+C:\Users\skele\Documents\GitHub\TABGameSaver\obj\Release\TABGameSaver.exe
+C:\Users\skele\Documents\GitHub\TABGameSaver\obj\Release\TABGameSaver.pdb
