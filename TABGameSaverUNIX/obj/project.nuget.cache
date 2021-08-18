@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uRPgk3Chz9e8EBOrzKhYxNYM9pG1L0BR1TKJgefR8PmfSZ95HpOXdRMWK7anKzWOza9721buMMKMvzi2VnTA8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skele\\Documents\\GitHub\\TABGameSaver\\TABGameSaverUNIX\\TABGameSaverUNIX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skele\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\5.0.9\\microsoft.netcore.app.runtime.osx-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\skele\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\5.0.9\\microsoft.aspnetcore.app.runtime.osx-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\skele\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\5.0.9\\microsoft.netcore.app.host.osx-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
