@@ -12,11 +12,10 @@ TAB Game Saver will restore your save!
 ## How to run
 ### Requirements
  - Microsoft Windows x86 or x86-64: XP w/ SP3, Vista w/ SP1, 7 or later
- - Apple MacOS: 10.8 - 10.14 through WINE 
- - Linux x86 or x86-64 through WINE
- - .NET Framework 4 minimum installed (WINE: Install through Winetricks)
-
-> I'll try to port TABGameSaver natively to Linux and MacOS
+ - Apple MacOS: 10.12 minimum
+ - Linux x64
+ - .NET Framework 4 minimum installed for Windows
+ - .NET 5.0 for MacOS and Linux
 
 ### Running (Windows)
 Firstly download the latest release from [here](https://github.com/Skeletonek/TABGameSaver/releases). Put the executable in TAB game save directory.
@@ -28,6 +27,12 @@ e.g. Windows 7:
 
 Run the app from there and that's it! Now every time when you come back to main menu after playing survival, TAB will save your progress and 
 TAB Game Saver will backup this save, and recover it if you will lose your settlement in game!
+
+### Running (MacOS / Linux)
+The same rules as for Windows apply, but you need to put executable in WINE prefix folder. For linux it's something like:
+`/home/<UserName>/.wine/drive_c/users/<UserName>/Documents/My Games/They Are Billions/Saves`
+
+You may also need to give permissions to execute app
 
 ### Running (WINE)
 Firstly you need to have WINE installed. As you are trying to play Windows game on other OS i assume you have it already installed.
